@@ -10,8 +10,18 @@ I built this project as a quick way to practice Java fundamentals and random num
 
 - Simulates a coin flip
 - Randomly generates Heads or Tails
+- Counts total Heads and Tails
+- Calculates result percentages
 - Simple console-based output
 
 ## Example Output
 
-Coin landed on: Heads
+Total Flips: 100
+
+Heads: 54
+
+Tails: 46
+
+Heads Percentage: 54.00%
+
+Tails Percentage: 46.00%
